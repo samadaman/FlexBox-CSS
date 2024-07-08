@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" /><meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Login page in Flexbox</title>
+    <link rel="stylesheet" href="flexbox.css" />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Mochiy+Pop+One&family=Montserrat&family=Mouse+Memoirs&family=Poppins:ital,wght@1,500&family=Silkscreen&display=swap"
+      rel="stylesheet" />
+    
+    </head>
+    
+    <body>
+      <form class="login-parent">
+        <!--flex container-->
+        <div class="logo">
+          <img src="img/Group (4).png" />
+        </div>
+    
+        <div class="input-parent">
+          <!--flex-item-->
+          <div class="input-child">
+          <div class="input_inner">
+            <img src="img/user.png" />
+          </div>
+          <div class="input_inner2">
+            <input type="text" placeholder="username" />
+          </div>
+        </div>
+      </div>
+
+      <div class="input-parent">
+        <div class="input-child">
+          <div class="input_inner">
+            <img src="img/lock.png" />
+          </div>
+          <div class="input_inner2">
+            <input type="password" placeholder="Password" />
+          </div>
+        </div>
+      </div>
+      <div class="input-parent">
+        <button class="login_btn">Login</button>
+      </div>
+      <div class="login_footer">
+        <a href="#">Forget Password?</a>
+      </div>
+    </form>
+  </body>
+</html>

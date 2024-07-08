@@ -1,0 +1,54 @@
+*{
+    margin: 0%;
+}
+.nav{    
+    display: flex;
+    justify-content: space-evenly;
+    background-color: lightgreen;
+}
+.nav a{
+    display: flex;
+    margin-top: 12px;
+    font-size: 20px;
+    font-weight: bold;
+    font-family: 'Anek Telugu', sans-serif;
+    text-decoration: none;
+    color: white;
+   
+}
+
+.face{
+    margin-top: 2px;
+    font-size: 30px;
+    color: white;
+    font-family: 'Anton', sans-serif;
+    font-weight: 500;
+}
+
+    .submit{
+        color: lightgreen;
+    background-color:white;
+    font-size: medium;
+    font-weight: 700;
+    margin-top: 4px;
+    height: 40px;
+    border-radius: 50px;
+}
+.search{
+    height: 50px;
+    border-radius: 20px;
+}
+
+.menu{
+    margin-top: 8px;
+} 
+
+.facebook{
+
+  background-color:rgba(223, 245, 255, 0.881);
+    height: 680px;
+}
+.scan{
+    margin-top: 10px;
+    margin-right: 40px;
+}
