@@ -22,8 +22,8 @@ Check out the live demo of the project: CSS Flexbox & Combinators
 ###### •  Adjacent Sibling (+): Targets the element that is immediately preceded by a specified element.
 ###### •  General Sibling (~): Targets all sibling elements.
 
-🤝 Contributing
+#### 🤝 Contributing
  Contributions are welcome! If you have a new example or a tip, feel free to submit a pull request.
 
-🌟 Acknowledgements
+#### 🌟 Acknowledgements
  • <i> Thanks to all the amazing contributors who helped in creating this project. Happy coding! 🎉 </i>
