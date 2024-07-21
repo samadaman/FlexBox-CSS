@@ -23,4 +23,7 @@ Check out the live demo of the project: CSS Flexbox & Combinators
 ###### •  General Sibling (~): Targets all sibling elements.
 
 🤝 Contributing
- • <i> Contributions are welcome! If you have a new example or a tip, feel free to submit a pull request.
+ Contributions are welcome! If you have a new example or a tip, feel free to submit a pull request.
+
+🌟 Acknowledgements
+ • <i> Thanks to all the amazing contributors who helped in creating this project. Happy coding! 🎉 </i>
